@@ -21,25 +21,24 @@ A mini Quora-style web application built using Node.js, Express.js, and EJS.
 - HTML
 - CSS
 
+
 ## Project Structure
 
-
+```text
 quora-posts-crud/
-│
 ├── public/
 │   └── style.css
-│
 ├── views/
 │   ├── index.ejs
 │   ├── new.ejs
 │   ├── show.ejs
 │   └── edit.ejs
-│
 ├── index.js
 ├── package.json
 ├── package-lock.json
 ├── .gitignore
 └── README.md
+```
 
 | Operation | Description                         |
 | --------- | ----------------------------------- |
